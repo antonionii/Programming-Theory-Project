@@ -1,0 +1,841 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.1415; Version 2004; 64bit' Language: 'en' Physical Memory: 32706 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/antba/Documents/GitHub/Programming-Theory-Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54720
+Successfully changed project path to: C:/Users/antba/Documents/GitHub/Programming-Theory-Project
+C:/Users/antba/Documents/GitHub/Programming-Theory-Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 15.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/antba/Documents/GitHub/Programming-Theory-Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   
+    VRAM:     8050 MB
+    Driver:   30.0.15.1123
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56936
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001843 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 16.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.794 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000549 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.530 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.8 MB.
+System memory in use after: 57.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1560.
+Total: 1.441300 ms (FindLiveObjects: 0.142900 ms CreateObjectMapping: 0.023000 ms MarkObjects: 1.206400 ms  DeleteObjects: 0.068000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Kage.fbx
+  artifactKey: Guid(da7c7e72a1baaad46b5c39fb6de19695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kage.fbx using Guid(da7c7e72a1baaad46b5c39fb6de19695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e831b016c15d9791933281ba18659c') in 0.417849 seconds
+  Import took 0.419621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Mernie_1.fbx
+  artifactKey: Guid(79bffa4b37666be48bf9a3d079fc8113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mernie_1.fbx using Guid(79bffa4b37666be48bf9a3d079fc8113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531adb440aff279d90129364b2771891') in 0.077907 seconds
+  Import took 0.079513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.645379 seconds.
+  path: Assets/Anime Girl
+  artifactKey: Guid(06a0feb584b406f458db93e971403197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl using Guid(06a0feb584b406f458db93e971403197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7882085411de0d32babf0f7433030d') in 0.006563 seconds
+  Import took 0.008268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086028 seconds.
+  path: Assets/Anime Girl/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be6a341bced4234468480763418c1c44') in 0.231335 seconds
+  Import took 0.233537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.764790 seconds.
+  path: Assets/Mernie_1.fbx
+  artifactKey: Guid(79bffa4b37666be48bf9a3d079fc8113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mernie_1.fbx using Guid(79bffa4b37666be48bf9a3d079fc8113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c99a53518eabc07707f4b9e5b5275644') in 0.053068 seconds
+  Import took 0.055538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/mernie_palette_256-twoeyes.png
+  artifactKey: Guid(31752702a328cf74ca910b86d51f9572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mernie_palette_256-twoeyes.png using Guid(31752702a328cf74ca910b86d51f9572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f59d943cf642f08c8b276237d1b6d4') in 0.026655 seconds
+  Import took 0.028172 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000772 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.502 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.7 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1608.
+Total: 1.389900 ms (FindLiveObjects: 0.103500 ms CreateObjectMapping: 0.022400 ms MarkObjects: 1.227300 ms  DeleteObjects: 0.036000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.787878 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(b8f828d21675ac14dbca23901f890a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(b8f828d21675ac14dbca23901f890a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '786cfcb40011e31459c7bf9c9214eeda') in 0.006915 seconds
+  Import took 0.008689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1292.446396 seconds.
+  path: Assets/Kage.fbx
+  artifactKey: Guid(da7c7e72a1baaad46b5c39fb6de19695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kage.fbx using Guid(da7c7e72a1baaad46b5c39fb6de19695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d51e1cedbfc21103236dfa997acb36') in 0.087887 seconds
+  Import took 0.090344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.779712 seconds.
+  path: Assets/Anime Girl/Tex
+  artifactKey: Guid(8bc06b1b2d856df4ab0e9a3152609006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex using Guid(8bc06b1b2d856df4ab0e9a3152609006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5434c71d035de2b07e05b85a3664078') in 0.005291 seconds
+  Import took 0.006989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069636 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Body.png
+  artifactKey: Guid(33ae753ae5250b64b8518d1412278dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Body.png using Guid(33ae753ae5250b64b8518d1412278dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba43e4fc017d2b0e9213986d12ee5df8') in 0.015010 seconds
+  Import took 0.016781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Face_makeup.png
+  artifactKey: Guid(3a571e842be92854c8e1e5e1ac0cd2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Face_makeup.png using Guid(3a571e842be92854c8e1e5e1ac0cd2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d06ca59161af653ebb3b9827269a19') in 0.009734 seconds
+  Import took 0.011126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Eyelashes.png
+  artifactKey: Guid(437943a3b8830dc4d913be00a926114d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Eyelashes.png using Guid(437943a3b8830dc4d913be00a926114d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea4960c3351ab46afa42ef00a448662') in 0.012572 seconds
+  Import took 0.013982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Hair2_head.png
+  artifactKey: Guid(051f3414ac172e84babdb73cdc3c832a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Hair2_head.png using Guid(051f3414ac172e84babdb73cdc3c832a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '291e726a40741f5d53b8cbf49f28f69e') in 0.008653 seconds
+  Import took 0.010209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Anime Girl/Tex/Tex_EyeReflection.png
+  artifactKey: Guid(069ab9513901678428ac108cea95a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_EyeReflection.png using Guid(069ab9513901678428ac108cea95a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc40d882b9fc74570dcf80becf2982e1') in 0.008080 seconds
+  Import took 0.009917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Anime Girl/Tex/Tex_EyeWhite.png
+  artifactKey: Guid(97fc1e569c53ac1458a897847c13efd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_EyeWhite.png using Guid(97fc1e569c53ac1458a897847c13efd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50034f719c6c5d99b49f1a291b36471d') in 0.008696 seconds
+  Import took 0.010341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Eyebrows.png
+  artifactKey: Guid(64a26877ab9953548876b6dcad8bbb0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Eyebrows.png using Guid(64a26877ab9953548876b6dcad8bbb0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8da25031f7697e3269fb43c1cb7a8e7a') in 0.007972 seconds
+  Import took 0.009355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Eyeliner.png
+  artifactKey: Guid(40654ecb795598a448c76508bf5efa2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Eyeliner.png using Guid(40654ecb795598a448c76508bf5efa2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c826e8af5feb06632452ceb6b8d8af') in 0.007982 seconds
+  Import took 0.009539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Hair2_hair.png
+  artifactKey: Guid(40b9f7d27e1400446b4974381efc1adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Hair2_hair.png using Guid(40b9f7d27e1400446b4974381efc1adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd040334138363b097521cb5fe67509f5') in 0.008157 seconds
+  Import took 0.009556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Hair1_head.png
+  artifactKey: Guid(306bd9a3a9617b6438a3b9d67ee2505c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Hair1_head.png using Guid(306bd9a3a9617b6438a3b9d67ee2505c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4abf5953642b0b85b2f3f7b1305d0d4d') in 0.008606 seconds
+  Import took 0.010009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Hair1_hair.png
+  artifactKey: Guid(6d19fd0a3cb6d884b9486bc2c75bc7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Hair1_hair.png using Guid(6d19fd0a3cb6d884b9486bc2c75bc7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3102682c31b3eb4d3e560144c4b18b7') in 0.007520 seconds
+  Import took 0.009018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Eyes.png
+  artifactKey: Guid(7320534fbd4110341a14a499362e9c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Eyes.png using Guid(7320534fbd4110341a14a499362e9c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295c90c86bd1a24b974f8fbf6e062c76') in 0.007030 seconds
+  Import took 0.008658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Face.png
+  artifactKey: Guid(c247e86b94f92384ab47aab540ea1248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Face.png using Guid(c247e86b94f92384ab47aab540ea1248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce833d2693dce89e542e70a2cb2f6d64') in 0.008434 seconds
+  Import took 0.010236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.905409 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Hair3_hair.png
+  artifactKey: Guid(d12f3944f9b15d54cb90d8fe114dc73e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Hair3_hair.png using Guid(d12f3944f9b15d54cb90d8fe114dc73e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1656a62db968a6e61a2e44d926665d9') in 0.007827 seconds
+  Import took 0.009569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Hair3_head.png
+  artifactKey: Guid(aeb82eb584a692e4eb3a784eb4e15148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Hair3_head.png using Guid(aeb82eb584a692e4eb3a784eb4e15148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e3d3b53eaa9ed6049c5af01f2191d3') in 0.008036 seconds
+  Import took 0.009478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022332 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Hair4_hair.png
+  artifactKey: Guid(d16115a9ba9d5814694445e6eb4a5e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Hair4_hair.png using Guid(d16115a9ba9d5814694445e6eb4a5e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51678218b8a98fbf2652426485cc27ff') in 0.007653 seconds
+  Import took 0.009447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Hair4_head.png
+  artifactKey: Guid(e1465639d7246b84b8635491c7ffeaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Hair4_head.png using Guid(e1465639d7246b84b8635491c7ffeaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1557babc43a60c38209d553e72943639') in 0.008674 seconds
+  Import took 0.010066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Hair5_head.png
+  artifactKey: Guid(d6a30f92d6a124c44a8d69684056cf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Hair5_head.png using Guid(d6a30f92d6a124c44a8d69684056cf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5714eb4c694f44e63e614147708c5408') in 0.012004 seconds
+  Import took 0.013433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Hair5_hair.png
+  artifactKey: Guid(6a800db2ae2e2654cb3cdbe75bcfb321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Hair5_hair.png using Guid(6a800db2ae2e2654cb3cdbe75bcfb321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19830f0324bc9dbfae639129aae32af1') in 0.007168 seconds
+  Import took 0.008395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.239476 seconds.
+  path: Assets/Anime Girl/Tex/Tex_Mouth.png
+  artifactKey: Guid(afcebc1f40668274fbb842430ff85d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_Mouth.png using Guid(afcebc1f40668274fbb842430ff85d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22bb6de68d369c0d72796225185460c') in 0.007923 seconds
+  Import took 0.009765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Anime Girl/Tex/Tex_underwear_1.png
+  artifactKey: Guid(68812920ec2796e4894cb2957e3d920c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_underwear_1.png using Guid(68812920ec2796e4894cb2957e3d920c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f24b487487e445098fe85caca7e7273') in 0.007205 seconds
+  Import took 0.008611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Anime Girl/Tex/Tex_underwear_2.png
+  artifactKey: Guid(22e4f33bce492a64c8d2f4266d13c241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/Tex_underwear_2.png using Guid(22e4f33bce492a64c8d2f4266d13c241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b87dee3418d449e95a6a07e3219fdf') in 0.029600 seconds
+  Import took 0.031023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.614225 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b7f90de33dc9b6abe2d7ca90817399') in 0.098114 seconds
+  Import took 0.100378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.836095 seconds.
+  path: Assets/Anime Girl/Mat
+  artifactKey: Guid(b6ba44cc5b0eb964c9eb32950980bd32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat using Guid(b6ba44cc5b0eb964c9eb32950980bd32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd9a218d7144385d2322b0f0a2b5c17') in 0.006273 seconds
+  Import took 0.009006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.457910 seconds.
+  path: Assets/Anime Girl/Mat/bikini.mat
+  artifactKey: Guid(3f5c3493ca5fe9540aaaea6c5ef6c552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/bikini.mat using Guid(3f5c3493ca5fe9540aaaea6c5ef6c552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3977777a56df50c914c7673a926a50d') in 0.015401 seconds
+  Import took 0.017292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Anime Girl/Mat/Eyelashes 1.mat
+  artifactKey: Guid(d0fb875d30abf5745ae9cf38d6742639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eyelashes 1.mat using Guid(d0fb875d30abf5745ae9cf38d6742639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b7d3af8980375f47b58d1eda93a0178') in 0.008752 seconds
+  Import took 0.010054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Anime Girl/Mat/EyeBack 1.mat
+  artifactKey: Guid(e9c69135eb903a5409e8ee3e50c8f54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/EyeBack 1.mat using Guid(e9c69135eb903a5409e8ee3e50c8f54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6eb0ea42c0043452a56520ea62fb65') in 0.008932 seconds
+  Import took 0.010259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Anime Girl/Mat/EyeBack.mat
+  artifactKey: Guid(b97b55ed446d8ed48acc18d42edf2de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/EyeBack.mat using Guid(b97b55ed446d8ed48acc18d42edf2de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4a0a301c83ab2b2ebdaeeda2a27a00') in 0.012323 seconds
+  Import took 0.013705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Anime Girl/Mat/Eye_reflection 1.mat
+  artifactKey: Guid(8d496044062d78a418fa2effedc710da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eye_reflection 1.mat using Guid(8d496044062d78a418fa2effedc710da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '716fb152da41cbc7c12d142f3239c977') in 0.014705 seconds
+  Import took 0.016073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Anime Girl/Mat/Eyelashes.mat
+  artifactKey: Guid(29c9dd3707158b2448cc0bdf81c33ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eyelashes.mat using Guid(29c9dd3707158b2448cc0bdf81c33ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd34176fd47a30e032312e8f9ed82fa') in 0.164963 seconds
+  Import took 0.166743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Anime Girl/Mat/Body 1.mat
+  artifactKey: Guid(c8289056974596049a3ff09ec19e49cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Body 1.mat using Guid(c8289056974596049a3ff09ec19e49cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5859c30f2eaf4297b81a018678f4106') in 0.008512 seconds
+  Import took 0.009846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Anime Girl/Mat/Eyebrows.mat
+  artifactKey: Guid(aa86a0f3e62852142bfc3a5d4cd7a828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eyebrows.mat using Guid(aa86a0f3e62852142bfc3a5d4cd7a828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e84e6f0dd94202bc3e0b64e5e3417f1f') in 0.008285 seconds
+  Import took 0.009558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Anime Girl/Mat/Eye 1.mat
+  artifactKey: Guid(ec0d6111183c4be4f9ae68df74408eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eye 1.mat using Guid(ec0d6111183c4be4f9ae68df74408eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1598d505cdb6df58fcce0bfe70c22d0c') in 0.011843 seconds
+  Import took 0.013299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Anime Girl/Mat/Eye.mat
+  artifactKey: Guid(023452b84affa6f43a8feea0e1c55499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eye.mat using Guid(023452b84affa6f43a8feea0e1c55499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55d4824ea18c17a6df8084758cb737c2') in 0.013176 seconds
+  Import took 0.014835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Anime Girl/Mat/Body.mat
+  artifactKey: Guid(8e526af249278a0498ce8273e07fcc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Body.mat using Guid(8e526af249278a0498ce8273e07fcc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dfc1639dc33b99a9cc2e486220ca1e3') in 0.032111 seconds
+  Import took 0.033554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Anime Girl/Mat/Eyebrows 1.mat
+  artifactKey: Guid(de8f21b1995fbeb41a14fd09cec9a6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eyebrows 1.mat using Guid(de8f21b1995fbeb41a14fd09cec9a6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249e05d3a8b81e548f38cbed11913253') in 0.008398 seconds
+  Import took 0.009656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Anime Girl/Mat/Body.mat
+  artifactKey: Guid(8e526af249278a0498ce8273e07fcc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Body.mat using Guid(8e526af249278a0498ce8273e07fcc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dfc1639dc33b99a9cc2e486220ca1e3') in 0.011368 seconds
+  Import took 0.012766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Anime Girl/Mat/Eye_reflection.mat
+  artifactKey: Guid(02b619845fcb6e741b4be7e71e36c491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eye_reflection.mat using Guid(02b619845fcb6e741b4be7e71e36c491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277927a467791813ee3334dc3a9fc943') in 0.080241 seconds
+  Import took 0.081674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005634 seconds.
+  path: Assets/Anime Girl/Mat/Eye_reflection.mat
+  artifactKey: Guid(02b619845fcb6e741b4be7e71e36c491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eye_reflection.mat using Guid(02b619845fcb6e741b4be7e71e36c491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277927a467791813ee3334dc3a9fc943') in 0.006017 seconds
+  Import took 0.007698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.139335 seconds.
+  path: Assets/Anime Girl/Mat/Eyeliner.mat
+  artifactKey: Guid(b8022f4bfe3976845b403285a16c5320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eyeliner.mat using Guid(b8022f4bfe3976845b403285a16c5320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446473aa1b94f959fc8579804cb03447') in 0.011252 seconds
+  Import took 0.013174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Anime Girl/Mat/Eyeliner 1.mat
+  artifactKey: Guid(64c2a2ec18886274fa7f44c84a53436f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eyeliner 1.mat using Guid(64c2a2ec18886274fa7f44c84a53436f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff7323e2f1b51c3f9f6b8e33cc394a6') in 0.014919 seconds
+  Import took 0.016396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Anime Girl/Mat/F00_000_Hair_00_HAIR.003.mat
+  artifactKey: Guid(0e1d4ceb6860d2e4ba9984b4ec06dfd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/F00_000_Hair_00_HAIR.003.mat using Guid(0e1d4ceb6860d2e4ba9984b4ec06dfd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1e4f8425ee2b1a039e857558d6078a') in 0.033953 seconds
+  Import took 0.035351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Anime Girl/Mat/Face.mat
+  artifactKey: Guid(45f47006298912f4dbec4062603b460f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Face.mat using Guid(45f47006298912f4dbec4062603b460f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec52d5c74f241b8ac64a6493cb8262a1') in 0.009350 seconds
+  Import took 0.010561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Anime Girl/Mat/Eyeliner.mat
+  artifactKey: Guid(b8022f4bfe3976845b403285a16c5320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eyeliner.mat using Guid(b8022f4bfe3976845b403285a16c5320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446473aa1b94f959fc8579804cb03447') in 0.007890 seconds
+  Import took 0.009574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Anime Girl/Mat/Eyeliner 1.mat
+  artifactKey: Guid(64c2a2ec18886274fa7f44c84a53436f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Eyeliner 1.mat using Guid(64c2a2ec18886274fa7f44c84a53436f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff7323e2f1b51c3f9f6b8e33cc394a6') in 0.005741 seconds
+  Import took 0.007051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.542216 seconds.
+  path: Assets/Anime Girl/Mat/Face 1.mat
+  artifactKey: Guid(c673017621898b44496ba9126f73d2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Face 1.mat using Guid(c673017621898b44496ba9126f73d2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a823f41438a7133930dad7a31ad97483') in 0.009279 seconds
+  Import took 0.011055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Anime Girl/Mat/Hair_head.mat
+  artifactKey: Guid(903deec0895457d43a093ac8ee3e1d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Hair_head.mat using Guid(903deec0895457d43a093ac8ee3e1d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99378b87c7328489503c95b59338f05d') in 0.008567 seconds
+  Import took 0.010190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Anime Girl/Mat/Hair_head 1.mat
+  artifactKey: Guid(e14acc068345f4046a1c8fc80d9e7b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Hair_head 1.mat using Guid(e14acc068345f4046a1c8fc80d9e7b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4bf0045207d395fb6c8a4990795675') in 0.008710 seconds
+  Import took 0.010116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026325 seconds.
+  path: Assets/Anime Girl/Mat/Image_20.001.mat
+  artifactKey: Guid(c8dbb7c39a8647e43a8889fed0d444ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Image_20.001.mat using Guid(c8dbb7c39a8647e43a8889fed0d444ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e79ac792a189eaaf4f559854a4b837e') in 0.008519 seconds
+  Import took 0.010168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Anime Girl/Mat/Image_20.005.mat
+  artifactKey: Guid(2dfba647dff85cb4d8cb83de374d2593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Image_20.005.mat using Guid(2dfba647dff85cb4d8cb83de374d2593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88223df9b598322dafc477b57772e7b8') in 0.007343 seconds
+  Import took 0.008579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Anime Girl/Mat/Mat_EyeReflection.mat
+  artifactKey: Guid(1b5c7ed19ffba894c8cea260f2347c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_EyeReflection.mat using Guid(1b5c7ed19ffba894c8cea260f2347c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff9b744e641adbf4aba6e6e0f8aa0243') in 0.009043 seconds
+  Import took 0.010502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Anime Girl/Mat/Image_20.004.mat
+  artifactKey: Guid(889245db0cb46184f830cc68d686b233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Image_20.004.mat using Guid(889245db0cb46184f830cc68d686b233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4130ce31efa4410158d955e41b78c02b') in 0.009018 seconds
+  Import took 0.011057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.635765 seconds.
+  path: Assets/Anime Girl/Mat/Mat_Hair_1_hair.mat
+  artifactKey: Guid(99a79f6de2825ec4bb471ef12eee8b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_Hair_1_hair.mat using Guid(99a79f6de2825ec4bb471ef12eee8b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b08335578d14c0c47278fc453afae17') in 0.009168 seconds
+  Import took 0.010906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Anime Girl/Mat/Mat_Hair_2_head.mat
+  artifactKey: Guid(a5046b7e2e9bd10459e090170ab26f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_Hair_2_head.mat using Guid(a5046b7e2e9bd10459e090170ab26f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a99a25474827d50beb567003bcc4a17') in 0.008668 seconds
+  Import took 0.010027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Anime Girl/Mat/Mat_Hair_2_hair.mat
+  artifactKey: Guid(9e09ff6eb81e1bb46ac6c49cc77be78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_Hair_2_hair.mat using Guid(9e09ff6eb81e1bb46ac6c49cc77be78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84b8377cefec369976474bcd8010a86') in 0.009494 seconds
+  Import took 0.011147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Anime Girl/Mat/Mat_Hair_1_head.mat
+  artifactKey: Guid(d76781e69b0e937439800ef45648aed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_Hair_1_head.mat using Guid(d76781e69b0e937439800ef45648aed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263444ea666d55a5a91a495f475d6fb0') in 0.008502 seconds
+  Import took 0.009964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026107 seconds.
+  path: Assets/Anime Girl/Mat/Mat_Hair_3_hair.mat
+  artifactKey: Guid(ac66396422b86cb4c92dad11a754d445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_Hair_3_hair.mat using Guid(ac66396422b86cb4c92dad11a754d445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '840f55b01241ca33fbef4579102c3815') in 0.009844 seconds
+  Import took 0.012146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Anime Girl/Mat/Mat_Hair_4_head.mat
+  artifactKey: Guid(33f16960b5faae741a694a6018f8f68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_Hair_4_head.mat using Guid(33f16960b5faae741a694a6018f8f68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f81cee48837f988e5e40f4d92401f9b') in 0.010083 seconds
+  Import took 0.011998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Anime Girl/Mat/Mat_Hair_4_hair.mat
+  artifactKey: Guid(e1eb634c482838147a8f9f789fdfb8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_Hair_4_hair.mat using Guid(e1eb634c482838147a8f9f789fdfb8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb730f48729db2e37d72cf294e9715b') in 0.009447 seconds
+  Import took 0.010878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Anime Girl/Mat/Mat_Hair_3_head.mat
+  artifactKey: Guid(1d5e3b19234a64f44984ae99e6ca6545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_Hair_3_head.mat using Guid(1d5e3b19234a64f44984ae99e6ca6545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5e96ca7d806ec65cff4c0cc47e3ae7') in 0.011362 seconds
+  Import took 0.013001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.351571 seconds.
+  path: Assets/Anime Girl/Mat/Mat_Hair_5_hair.mat
+  artifactKey: Guid(3a1e33245c62cf54dad1f33cb1420dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_Hair_5_hair.mat using Guid(3a1e33245c62cf54dad1f33cb1420dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6bcb6fc9732ea9fed42886a14e35b3') in 0.009411 seconds
+  Import took 0.011177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Anime Girl/Mat/Mat_transp_Eye_color2.mat
+  artifactKey: Guid(cdb22899674873642a8b09020709ae1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_transp_Eye_color2.mat using Guid(cdb22899674873642a8b09020709ae1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47d2ba9f3f20401565f0d0433ba40979') in 0.008469 seconds
+  Import took 0.009795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Anime Girl/Mat/Mat_transp_Eye_color3.mat
+  artifactKey: Guid(005e240c72f4ad94a986acc901553162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_transp_Eye_color3.mat using Guid(005e240c72f4ad94a986acc901553162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac8d971f839d6cb77347ccf9f4c66d6') in 0.009397 seconds
+  Import took 0.010921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Anime Girl/Mat/Mat_Hair_5_head.mat
+  artifactKey: Guid(35480311dac00b44e8b4aa462037a655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_Hair_5_head.mat using Guid(35480311dac00b44e8b4aa462037a655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b07c2dc684979f98b9157b8bed4ee0d') in 0.008708 seconds
+  Import took 0.010186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002574 seconds.
+  path: Assets/Anime Girl/Mat/Mat_transp_Eye_color4.mat
+  artifactKey: Guid(b634fca61d42a294a8d558c7cf413446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_transp_Eye_color4.mat using Guid(b634fca61d42a294a8d558c7cf413446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f60d100820d0ea740f4f8b40b759cbb2') in 0.008863 seconds
+  Import took 0.010280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Anime Girl/Mat/Mat_underwear_2.mat
+  artifactKey: Guid(5869b0877c9aac0429ded83b64254243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_underwear_2.mat using Guid(5869b0877c9aac0429ded83b64254243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1afb042540bb2419f08971a5c03c63') in 0.016178 seconds
+  Import took 0.017905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Anime Girl/Mat/Mat_underwear_1.mat
+  artifactKey: Guid(fe5f139c27784a24493f695dd3cd1be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_underwear_1.mat using Guid(fe5f139c27784a24493f695dd3cd1be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1880a953046c7ddd45da421465cb2d53') in 0.024760 seconds
+  Import took 0.026327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Anime Girl/Mat/Mat_underwear_3.mat
+  artifactKey: Guid(d2903b263d559f54794c1af4772a0e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/Mat_underwear_3.mat using Guid(d2903b263d559f54794c1af4772a0e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560de2edfb9ffd685ced13421f65452e') in 0.008871 seconds
+  Import took 0.010614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.349151 seconds.
+  path: Assets/Anime Girl/Mat/mouth_inside.mat
+  artifactKey: Guid(6591b6a58c1933643bb87bf9fbef044c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/mouth_inside.mat using Guid(6591b6a58c1933643bb87bf9fbef044c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490fc2ab36e25f5e19cdc230fd18d0ec') in 0.009226 seconds
+  Import took 0.011361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Anime Girl/Mat/mouth_inside 1.mat
+  artifactKey: Guid(72a6404f6fcad1643a0176a258bab493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Mat/mouth_inside 1.mat using Guid(72a6404f6fcad1643a0176a258bab493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25151a90594d505a0a51c1c9664c75df') in 0.009942 seconds
+  Import took 0.011301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.375818 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2381007b8aad0ffbbcf29a3e54a3a8') in 0.115193 seconds
+  Import took 0.117513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.600274 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adbc24384c4062ca82587cf29e0f5a33') in 0.051101 seconds
+  Import took 0.053517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.942146 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a81e2df682a8d18c5f68466d93777b2') in 0.130250 seconds
+  Import took 0.132703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.076208 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b565fc4cfdc5b24f61e2c2ac8ab15e') in 0.085963 seconds
+  Import took 0.088593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.167739 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963c26225c0faf0eda63d706d9a2eb82') in 0.118131 seconds
+  Import took 0.120971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.397982 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a52cf19a6a2a1f7ca643018fc6f0f124') in 0.048586 seconds
+  Import took 0.050898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.943986 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234109d48310b8c1322481114995af44') in 0.170505 seconds
+  Import took 0.173199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.865669 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8983d8c7ae96e04670449c3609881afa') in 0.053960 seconds
+  Import took 0.056327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.267280 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1bf6f49ef9b6cd5affc8d77f3a9aeba') in 0.055500 seconds
+  Import took 0.058253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.356799 seconds.
+  path: Assets/Anime Girl/Tex/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anime Girl/Tex/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a24cfb7ec8599b56c61f4cf71a642714') in 0.050151 seconds
+  Import took 0.052539 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000500 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.498 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1617.
+Total: 1.358900 ms (FindLiveObjects: 0.121000 ms CreateObjectMapping: 0.027500 ms MarkObjects: 1.169500 ms  DeleteObjects: 0.039900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4895.874986 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(64bff7e7dff8a5c4f86a217f386c1146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(64bff7e7dff8a5c4f86a217f386c1146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6264ef0e77ee2c2dd116e2c2c8e63477') in 0.023184 seconds
+  Import took 0.025310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003879 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(64bff7e7dff8a5c4f86a217f386c1146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(64bff7e7dff8a5c4f86a217f386c1146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6264ef0e77ee2c2dd116e2c2c8e63477') in 0.005386 seconds
+  Import took 0.007025 seconds .
+
