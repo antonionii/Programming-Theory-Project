@@ -6,6 +6,7 @@ using Random = UnityEngine.Random;
 
 public class BoxSpawn : MonoBehaviour
 {
+    //Encapsulation
     private float m_spawnXMin = -5.0f;
     public float spawnXMin
     {
@@ -66,6 +67,7 @@ public class BoxSpawn : MonoBehaviour
     // Update is called once per fr
     private void OnMouseDown()
     {
+        //Abstraction
         SpawnCharacter();
     }
 

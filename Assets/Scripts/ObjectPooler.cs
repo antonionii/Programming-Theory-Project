@@ -13,6 +13,7 @@ public class ObjectPooler : MonoBehaviour
         public int poolSize;
 
     }
+    //Encapsulation Auto Implemented Property
     public static ObjectPooler Instance { get; private set; }
 
     private void Awake()
