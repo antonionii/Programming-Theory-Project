@@ -10,10 +10,6 @@ public class AIControls : MonoBehaviour
     GameObject Enemy;
     GameObject hero;
 
-    [SerializeField] int power = 10;
-
-    public float upForce = 80f;
-    public float sideForce = .1f;
 
     private void Start()
 
@@ -28,20 +24,7 @@ public class AIControls : MonoBehaviour
 
     private void Update()
     {
-        if (heroRb != null)
-        {
 
-
-
-
-            Vector3 lookDirection2 = (heroRb.transform.position - transform.position).normalized;
-            enemyRb.AddForce(lookDirection2 * speed);
-
-            if (transform.position.y < -10)
-            {
-                Destroy(gameObject);
-            }
-        }
 
     }
 
