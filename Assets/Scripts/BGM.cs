@@ -23,7 +23,15 @@ public class BGM : MonoBehaviour
 
     void Start()
     {
+        PlayNewSong();
+    }
+
+    public virtual void PlayNewSong()
+    {
         song = GetComponent<AudioSource>();
-        song.Play();
+        if (!song.isPlaying)
+        {
+            song.Play();
+        }
     }
 }

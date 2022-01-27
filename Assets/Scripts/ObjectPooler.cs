@@ -13,7 +13,7 @@ public class ObjectPooler : MonoBehaviour
         public int poolSize;
 
     }
-    public static ObjectPooler Instance;
+    public static ObjectPooler Instance { get; private set; }
 
     private void Awake()
     {

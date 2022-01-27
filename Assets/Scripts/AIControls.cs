@@ -15,11 +15,7 @@ public class AIControls : MonoBehaviour
 
 
     {
-        Enemy = GameObject.Find("Enemy");
-        hero = GameObject.Find("hero");
 
-        enemyRb = GameObject.Find("Enemy").GetComponent<Rigidbody>();
-        heroRb = GameObject.Find("hero").GetComponent<Rigidbody>();
     }
 
     private void Update()
